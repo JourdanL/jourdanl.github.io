@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Léane Jourdan"
-  avatar           : "profile.png"
+  avatar           : "IMG_20220105_150732.jpg"
   bio              : "French PhD. student at Nantes University."
-  location         : "Nantes, France 🇫🇷"
+  location         : "Nantes 🐘, France 🇫🇷"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jourdanleane/"
+  linkedin         : "jourdanleane"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
