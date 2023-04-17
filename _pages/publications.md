@@ -1,26 +1,12 @@
 ---
-layout: publications
+layout: archive
 title: "Publications"
 permalink: /publications/
-papers:
-  -
-    title: "Text revision in Scientific Writing Assistance: An Overview."
-    url: "https://arxiv.org/pdf/2303.16726.pdf"
-    <!---link: "https://github.com/boudinfl/ir-using-kg" --->
-    authors: "Léane Jourdan, Florian Boudin, Richard Dufour, Nicolas Hernandez"
-    journal: "Proceedings of the 13th International Workshop on Bibliometric-enhanced Information Retrieval (ECIR 2023)"
-    date: "Apr 2023"
+author_profile: true
 ---
-
-<!--- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} --->
+* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: Text revision in Scientific Writing Assistance: An Overview. *Proceedings of the 13th International Workshop on Bibliometric-enhanced Information Retrieval (ECIR 2023)*, Apr 2023, Dublin, Ireland
+* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: CASIMIR : un Corpus d’Articles Scientifiques Intégrant les ModIfications et Révisions des auteurs. *Atelier sur l’Analyse et la Recherche de Textes Scientifiques (CORIA-TALN 2023)*, Jun 2023, Paris, France
 
-
-<!---author_profile: true --->
