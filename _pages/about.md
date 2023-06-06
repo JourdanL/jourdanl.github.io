@@ -17,12 +17,3 @@ My research lies within the field of NLP and my main research interests are scie
 
 In july 2022 I graduated from Nantes Universiy and obtained my master degree in Computer Science with a speciality in Natural Language processing.
 
-
-Publications
-======
-* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: Text revision in Scientific Writing Assistance: An Overview. *Proceedings of the 13th International Workshop on Bibliometric-enhanced Information Retrieval (ECIR 2023)*, Apr 2023, Dublin, Ireland
-* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: CASIMIR : un Corpus d’Articles Scientifiques Intégrant les ModIfications et Révisions des auteurs. *Atelier sur l’Analyse et la Recherche de Textes Scientifiques (CORIA-TALN 2023)*, Jun 2023, Paris, France
-
-Teaching
-------
-Jan 2022 - Fev 2022 : **Natural Language Processing** - Polytech Nantes
