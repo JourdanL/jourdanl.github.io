@@ -182,7 +182,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  ressources:
+  resources:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -231,10 +231,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _ressources
+  # _resources
   - scope:
       path: ""
-      type: ressources
+      type: resources
     values:
       layout: single
       author_profile: true
