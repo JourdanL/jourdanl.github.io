@@ -17,4 +17,4 @@ My research lies within the field of NLP and my main research interests are scie
 
 In july 2022 I graduated from Nantes Universiy and obtained my master degree in Computer Science with a speciality in Natural Language processing.
 
-<img src="/images/logo_taln.png" width="500"> 
+<img src="/images/logo_taln.png"> 

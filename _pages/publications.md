@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+Conference papers
+---------
+* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: **<span style="color: #76c893">CASIMIR: A Corpus of Scientific Articles enhanced with Multiple Author-Integrated Revisions</span>** *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*, May 2024, Turin, Italia. <span style="color: #34a0a4">([Paper](https://aclanthology.org/2024.lrec-main.257/), [Slides](), [Poster]())</span>
+
 Workshop papers
 ---------
-* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: Text revision in Scientific Writing Assistance: An Overview. *Proceedings of the 13th International Workshop on Bibliometric-enhanced Information Retrieval (ECIR 2023)*, Apr 2023, Dublin, Ireland.
-[Download paper here](https://arxiv.org/pdf/2303.16726.pdf)
-* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: CASIMIR : un Corpus d’Articles Scientifiques Intégrant les ModIfications et Révisions des auteurs. *Atelier sur l’Analyse et la Recherche de Textes Scientifiques, CORIA-TALN 2023*, Jun 2023, Paris, France. [Télécharger l'article ici](https://hal.science/hal-04103347)
+* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: **<span style="color: #76c893">Text revision in Scientific Writing Assistance: An Overview</span>** *Proceedings of the 13th International Workshop on Bibliometric-enhanced Information Retrieval (ECIR 2023)*, Apr 2023, Dublin, Ireland. <span style="color: #34a0a4">([Paper](https://arxiv.org/pdf/2303.16726.pdf), [Slides]())
+* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: **<span style="color: #76c893">CASIMIR : un Corpus d’Articles Scientifiques Intégrant les ModIfications et Révisions des auteurs</span>** *Atelier sur l’Analyse et la Recherche de Textes Scientifiques, CORIA-TALN 2023*, Jun 2023, Paris, France. <span style="color: #34a0a4">([Paper](https://aclanthology.org/2023.jeptalnrecital-arts.10.pdf), [Poster](https://hal.science/hal-04122594), [SLides](/posts/2023/06/blog-workshop-arts/))
 
-Posters
----------
-* **Léane Jourdan**, Richard Dufour, Nicolas Hernandez, Florian Boudin. CASIMIR : un Corpus d’Articles Scientifiques Intégrant les ModIfications et Révisions des auteurs. *Atelier sur l'Analyse et la Recherche de Textes Scientifiques, CORIA-TALN 2023*, Jun 2023, Paris, France. [Télécharger le poster ici](https://hal.science/hal-04122594)
 
