@@ -13,5 +13,3 @@ Teaching assistant
 * **<span style="color: #00a896">Optimization methods for decision support</span>**, *IUT Nantes*, 2023-2024, 13h20, Bachelor year 3
 * **Mathematical modeling**, *IUT Nantes*, 2023-2024, 24h00, Bachelor year 3
 * **Cryptography**, *IUT Nantes*, 2023-2024, 24h20, Bachelor year 2
-
-test couleurs é
