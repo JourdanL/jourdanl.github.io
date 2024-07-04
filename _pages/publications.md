@@ -9,7 +9,7 @@ author_profile: true
 
 Conference papers
 ---------
-* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: **<span style="color: #76c893">CASIMIR: A Corpus of Scientific Articles enhanced with Multiple Author-Integrated Revisions</span>** *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*, May 2024, Turin, Italia. <span style="color: #34a0a4">([Paper](https://aclanthology.org/2024.lrec-main.257/), [Slides](/publications/2024/conf-lrec-coling/), [Poster](/publications/2024/conf-lrec-coling/), [Corpus](https://huggingface.co/datasets/taln-ls2n/CASIMIR))</span>
+* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: **<span style="color: #76c893">CASIMIR: A Corpus of Scientific Articles enhanced with Multiple Author-Integrated Revisions</span>** *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*, May 2024, Turin, Italia. <span style="color: #34a0a4">([Paper](https://aclanthology.org/2024.lrec-main.257/))</span>
 
 Workshop papers
 ---------
