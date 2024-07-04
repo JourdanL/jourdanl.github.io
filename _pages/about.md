@@ -16,3 +16,7 @@ I work under the supervision of [Richard Dufour](https://cv.hal.science/richard-
 My research lies within the field of NLP and my main research interests are scientific writing assistance and text revision.
 
 In july 2022 I graduated from Nantes Universiy and obtained my master degree in Computer Science with a speciality in Natural Language processing.
+
+<img src="/images/3logos.png"> 
+
+
