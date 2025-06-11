@@ -9,6 +9,7 @@ author_profile: true
 
 Conference papers (🇬🇧)
 ---------
+* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: **<span style="color: #76c893">[Identifying Reliable Evaluation Metrics for Scientific Text Revision](https://arxiv.org/abs/2506.04772)</span>** *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*, Aug 2025, Vienna, Austria. <span style="color: #34a0a4">([Paper on arXiv](https://arxiv.org/abs/2506.04772), [Paper on HAL](https://hal.science/hal-05099650), [Dataset](https://github.com/JourdanL/parareval))</span>
 * **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: **<span style="color: #76c893">[CASIMIR: A Corpus of Scientific Articles enhanced with Multiple Author-Integrated Revisions](https://aclanthology.org/2024.lrec-main.257/)</span>** *The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*, May 2024, Turin, Italia. <span style="color: #34a0a4">([Paper](https://aclanthology.org/2024.lrec-main.257/), [Slides](/publications/2024/conf-lrec-coling/), [Poster](/publications/2024/conf-lrec-coling/), [Corpus](https://huggingface.co/datasets/taln-ls2n/CASIMIR))</span>
 
 Workshop papers (🇬🇧)
@@ -20,4 +21,5 @@ Workshop papers (🇬🇧)
 
 Papers in French (🇫🇷)
 ---------
-* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: **<span style="color: #76c893">[CASIMIR : un Corpus d’Articles Scientifiques Intégrant les ModIfications et Révisions des auteurs](https://aclanthology.org/2023.jeptalnrecital-arts.10.pdf)</span>** *Atelier sur l’Analyse et la Recherche de Textes Scientifiques, CORIA-TALN 2023*, Jun 2023, Paris, France. <span style="color: #34a0a4">([Paper](https://aclanthology.org/2023.jeptalnrecital-arts.10.pdf), [Poster](https://hal.science/hal-04122594), [Slides](/publications/2023/workshop-arts/))
+* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: **<span style="color: #76c893">[Identification de mesures d’évaluation fiables pour la révision de textes scientifiques](https://arxiv.org/abs/2506.04772)</span>** *La 32e Conférence sur le Traitement Automatique des Langues Naturelles (CORIA-TALN 2025)*, Jul 2025, Marseille, France. <span style="color: #34a0a4">([Paper](https://arxiv.org/abs/2506.04772))
+* **Léane Jourdan**, Florian Boudin, Richard Dufour, Nicolas Hernandez: **<span style="color: #76c893">[CASIMIR : un Corpus d’Articles Scientifiques Intégrant les ModIfications et Révisions des auteurs](https://aclanthology.org/2023.jeptalnrecital-arts.10.pdf)</span>** *Atelier sur l’Analyse et la Recherche de Textes Scientifiques (ARTS), co-located with CORIA-TALN 2023*, Jun 2023, Paris, France. <span style="color: #34a0a4">([Paper](https://aclanthology.org/2023.jeptalnrecital-arts.10.pdf), [Poster](https://hal.science/hal-04122594), [Slides](/publications/2023/workshop-arts/))
