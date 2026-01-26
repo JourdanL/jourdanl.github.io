@@ -86,7 +86,7 @@ author:
   location         : "Nantes 🐘, France 🇫🇷"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=tQ84tvgAAAAJ&hl=fr"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Jourdan-Leane-2"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "LeaneJourdan"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
