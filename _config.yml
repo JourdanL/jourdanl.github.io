@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Léane Jourdan PhD. student "
+title                    : "Léane Jourdan NLP researcher "
 title_separator          : "-"
 name                     : &name "Léane Jourdan"
-description              : &description "I'm a PhD student at Nantes University in France."
+description              : &description "I'm a NLP researcher at LS2N in France."
 url                      : https://jourdanl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JourdanL/jourdanl.github.io"
