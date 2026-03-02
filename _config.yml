@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tQ84tvgAAAAJ&hl=fr"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Jourdan-Leane-2"
+  researchgate     :  #"https://www.researchgate.net/profile/Jourdan-Leane-2"
   uri              :
   bitbucket        :
   codepen          :

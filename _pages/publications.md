@@ -9,7 +9,7 @@ author_profile: true
 
 Thesis (🇬🇧)
 ---------
-* **Léane Jourdan**,**<span style="color: #76c893">Automatic Text Revision for Scientific Writing Assistance</span>** *Nantes University*, Dec 2025, Nantes, France. <span style="color: #34a0a4">(*Manuscript coming soon*, [Slides](/publications/2025/thesis-2025/))</span>
+* **Léane Jourdan**,**<span style="color: #76c893">Automatic Text Revision for Scientific Writing Assistance</span>** *Nantes University*, Dec 2025, Nantes, France. <span style="color: #34a0a4">([Manuscript](https://theses.hal.science/tel-05520839v1), [Slides](/publications/2025/thesis-2025/))</span>
 
 
 
